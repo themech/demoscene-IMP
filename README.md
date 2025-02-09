@@ -2,6 +2,10 @@
 
 A 4K intro for PC, originally released at Quast demo party in 1998. This production scored 4th place in its category during the competition held at 4th Grammar School in Elblag.
 
+![IMP Screenshot](imp.png)
+
+[View on Pouet.net](https://www.pouet.net/prod.php?which=58863)
+
 ## Overview
 
 IMP is a classic demoscene production that demonstrates the capabilities of pushing creative boundaries within a tiny 4 kilobyte size limit. The intro requires protected mode, linear frame buffer, and VESA to run.
@@ -58,9 +62,9 @@ The intro was originally built using Turbo Assembler 4.1. The source code is loc
 - Protected Mode
 - Linear Frame Buffer
 - VESA support
-- DOSBox-X (recommended for modern systems)
 - 6MB of RAM
-- coprocessor
+- a coprocessor
+- DOSBox-X (recommended for modern systems)
 
 ## Historical Context
 
@@ -68,7 +72,13 @@ This intro was created as part of the demoscene, a computer art subculture that 
 
 ## License
 
-Source code released under the MIT License.
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 *Created in 1998 for the Quast demo party*
