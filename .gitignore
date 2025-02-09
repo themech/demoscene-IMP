@@ -1,0 +1,7 @@
+# TASM directory
+TASM/
+TASM/**
+
+# Compiled objects and map files
+IMP/*.OBJ
+IMP/*.MAP
